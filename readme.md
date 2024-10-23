@@ -95,11 +95,18 @@ You don't need to do anything with this java file. The purpose of this file is t
 This part is independent to your programming code. You will need to answer the following short questions by **another due date**.
 Submit your answers on Moodle. 
 
-1. Which method is responsible to print the game board?
-2. Which method is responsible to decide if the game ends?
-3. What score should I get if I clear two rows and one column at the same time?
-4. How many different types of puzzles are there in the program?
-5. What should I type to the computer if I want to place a puzzle at row 3, column 4?
+1. What is the condition to end one round of the game?
+2. How many rounds in the game?
+3. If the painting owner has the highest bid in an open auction, would the owner still need to pay the bid?
+4. Learn from the demo program or the code, can a player enter a bid that is lower than the current bid?
+5. According to the score board below, how much a player can earn if he/she has purchased 3 paintings of "0. Manuel Carvalho", 2 painting of "2. Daniel Melim", and 1 painting of "Rafael Silveira" at the end of Round 1?
+   
+ |  | 0. Manuel Carvalho | 1. Sigrid Thaler | 2. Daniel Melim  | 3.  Ramon Martins | 4. Rafael Silveira |  
+ |---|----------|-----------|------------------|-----------|--------|
+  | Round 0 | 30    | 20  | 10  |              |   |
+| Round 1 |          | 20               | 10               |            | 30       |
+
+
 
 ---
 

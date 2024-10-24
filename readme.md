@@ -144,7 +144,6 @@ This assignment is worth 14% of the course mark.  There are three elements in th
 * 10% - the program can be compiled without any error
 * 85% - a working program that functions as specified 
 * -50% - if you define any class variable (field), addition class, or change the method `main`.
-* -30% - if you use any advanced data structure such as `java.util.List`, `java.util.ArrayList`, `java.util.Arrays`, `java.util.Set`, `java.util.Map` etc to replace your primitive array.
 
 
 Please note that submitting a program that cannot be compiled would result in a very low mark. 

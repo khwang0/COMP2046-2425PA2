@@ -51,7 +51,12 @@ Some methods are labeled as completed or given. Please don't make any change on 
 
 The details rule book of the game is available [here: Rulebook](./modern-art-rulebook.pdf).
 
-A video tutorial of the game is available: https://www.youtube.com/watch?v=CrwHrstvA0k
+Video tutorials of the game are available: 
+- (English) https://www.youtube.com/watch?v=CrwHrstvA0k
+- (Putonghua) https://www.youtube.com/watch?v=9PGt1krM7Ww
+
+
+
 
 Please spend some time to understand the game before you start the assignment.
 

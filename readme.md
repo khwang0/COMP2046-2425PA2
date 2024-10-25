@@ -1,5 +1,5 @@
 ![](hkbu.png)
-# COMP2026/COMP2045 Programming Assignment 2 - Simplified Modern Art
+# COMP2046 Programming Assignment 2 - Simplified Modern Art
 
 ## 2024-25 Semester 1
 
@@ -101,7 +101,7 @@ Submit your answers on Moodle.
 4. Learn from the demo program or the code, can a player enter a bid that is lower than the current bid?
 5. According to the score board below, how much a player can earn if he/she has purchased 3 paintings of "0. Manuel Carvalho", 2 painting of "2. Daniel Melim", and 1 painting of "Rafael Silveira" at the end of Round 1?
    
- |  | 0. Manuel Carvalho | 1. Sigrid Thaler | 2. Daniel Melim  | 3.  Ramon Martins | 4. Rafael Silveira |  
+ |  1| 0. Manuel Carvalho | 1. Sigrid Thaler | 2. Daniel Melim  | 3.  Ramon Martins | 4. Rafael Silveira |  
  |---|----------|-----------|------------------|-----------|--------|
   | Round 0 | 30    | 20  | 10  |              |   |
 | Round 1 |          | 20               | 10               |            | 30       |

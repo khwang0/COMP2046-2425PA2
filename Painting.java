@@ -77,12 +77,14 @@ public class Painting {
      * You should not modify this method.
      */
     public void sold() {
-        System.out.println(this.toString() + " is sold to " + currentBidder + " for " + currentBid);
+        System.out.print("Sold! - ");
         if (currentBidder == null || owner == currentBidder) {
+            System.out.println(this.toString() + " is sold to " + owner.getName() + " for " + currentBid);
             //owner get the painting automatically
             owner.buyPainting(this);
             owner.pay(currentBid); //owner pay to the bank
         } else {
+            System.out.println(this.toString() + " is sold to " + currentBidder.getName() + " for " + currentBid);
             //currentBidder get the painting
             currentBidder.buyPainting(this);
             currentBidder.pay(currentBid);

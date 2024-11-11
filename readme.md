@@ -8,7 +8,7 @@
 * Assignment Website: [GitHub](https://github.com/khwang0/COMP2046-2425PA2)
 * Due: 
   * UAT Due: 23:59pm 3/11/2024 (Sunday midnight)
-  * Programming Due: 23:59pm 13/11/2024 (Wednesday midnight)
+  * Programming Due: 23:59pm ~~13/11/2024 (Wednesday midnight)~~ 17/11/2024 (Sunday midnight)
 * Download the demo program: [here](demo.jar)
 * Download everything from the assignment: [here](https://github.com/khwang0/COMP2046-2425PA2/archive/refs/heads/master.zip)
 
